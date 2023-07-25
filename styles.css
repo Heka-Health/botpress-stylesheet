@@ -1,0 +1,9 @@
+.bpw-floating-button {
+    /* Sets the width and height of the button */
+    width: 102px;
+    height: 102px; 
+}
+
+.bpw-chat-container {
+    border-radius: 16px;
+}
