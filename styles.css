@@ -12,3 +12,7 @@
     height: 152px;
     width: 152;
 }
+
+.bpw-chat-bubble-content {
+    border-radius: 16px;
+}
