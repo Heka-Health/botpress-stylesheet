@@ -1,17 +1,11 @@
 .bpw-floating-button {
     /* Sets the width and height of the button */
-    width: 102px;
-    height: 102px; 
+    width: 76px;
+    height: 76px; 
 }
 
 .bpw-chat-container {
     border-radius: 16px;
-}
-
-#bp-widget-widget {
-    height: 152px;
-    width: 152px;
-}
 
 .bpw-chat-bubble-content {
     border-radius: 16px;
