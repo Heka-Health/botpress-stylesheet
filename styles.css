@@ -8,9 +8,9 @@
     border-radius: 16px;
 }
 
-.bp-widget-widget {
+#bp-widget-widget {
     height: 152px;
-    width: 152;
+    width: 152px;
 }
 
 .bpw-chat-bubble-content {
