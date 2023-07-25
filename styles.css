@@ -7,3 +7,8 @@
 .bpw-chat-container {
     border-radius: 16px;
 }
+
+.bp-widget-widget {
+    height: 152px;
+    width: 152;
+}
