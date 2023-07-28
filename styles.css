@@ -28,3 +28,7 @@
     color: white;
     border-radius: 8px;
 }
+
+.bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
+    background-color: #BC406B;   
+}
