@@ -27,6 +27,8 @@
     background-color: #BC406B;
     color: white;
     border-radius: 8px;
+    margin: 8px;
+    padding: 8px;
 }
 
 .bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
