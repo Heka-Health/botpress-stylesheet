@@ -10,3 +10,13 @@
 .bpw-chat-bubble-content {
     border-radius: 16px;
 }
+
+.bpw-keyboard-single-choice button:first-child {
+    background-color: LightGreen;
+    color: white;
+}
+
+.bpw-keyboard-single-choice button:last-child {
+    background-color: LightCoral;
+    color: white;
+}
