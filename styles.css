@@ -14,16 +14,17 @@
 .bpw-keyboard-single-choice button:first-child {
     background-color: LightGreen;
     color: white;
+    border-radius: 8px;
 }
 
 .bpw-keyboard-single-choice button:last-child {
     background-color: LightCoral;
     color: white;
-    border-radius: 16px;
+    border-radius: 8px;
 }
 
 .bpw-send-button {
     background-color: #BC406B;
     color: white;
-    border-radius: 16px;
+    border-radius: 8px;
 }
