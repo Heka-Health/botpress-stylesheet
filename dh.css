@@ -29,6 +29,12 @@
     border-radius: 8px;
 }
 
+.bp-widget-side {
+    height: 576px !important;
+    bottom: 0;
+    top: auto;
+}
+
 .bpw-send-button {
     background-color: #d5f4ff;
     color: black;
