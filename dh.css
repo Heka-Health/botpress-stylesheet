@@ -6,6 +6,7 @@
 
 .bpw-chat-container {
     border-radius: 16px;
+    height: 576px;
 
 .bpw-chat-bubble-content {
     border-radius: 16px;
@@ -33,8 +34,4 @@
 
 .bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
     background-color: #d5f4ff;   
-}
-
-.bpw-layout {
-  height: 576px !important;
 }
