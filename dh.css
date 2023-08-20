@@ -26,12 +26,13 @@
 
 .bpw-send-button {
     background-color: #d5f4ff;
-    color: white;
+    color: black;
     border-radius: 8px;
     margin: 8px;
     padding: 8px;
 }
 
 .bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
-    background-color: #d5f4ff;   
+    background-color: #d5f4ff;
+    color: black;
 }
