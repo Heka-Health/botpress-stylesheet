@@ -36,5 +36,5 @@
 }
 
 .bpw-layout {
-  height: 576px;
+  height: 576px !important;
 }
