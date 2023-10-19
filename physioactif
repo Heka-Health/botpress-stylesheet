@@ -1,0 +1,38 @@
+.bpw-floating-button {
+    /* Sets the width and height of the button */
+    width: 64px;
+    height: 64px; 
+    background-color: #048ccc;
+}
+
+.bpw-chat-container {
+    border-radius: 16px;
+    height: 90vh;
+}
+
+.bpw-chat-bubble-content {
+    border-radius: 16px;
+}
+
+.bpw-keyboard-single-choice button:first-child {
+    background-color: LightGreen;
+    color: white;
+    border-radius: 8px;
+}
+
+.bpw-keyboard-single-choice button:last-child {
+    background-color: LightCoral;
+    color: white;
+    border-radius: 8px;
+}
+
+.bpw-send-button {
+    background-color: #be846c;
+    border-radius: 8px;
+    margin: 8px;
+    padding: 8px;
+}
+
+.bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
+    background-color: #be846c;   
+}
