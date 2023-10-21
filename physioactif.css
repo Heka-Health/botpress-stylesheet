@@ -5,6 +5,10 @@
     background-color: #048ccc;
 }
 
+.bpw-header-container {
+    background-color: #048ccc;
+}
+
 .bpw-chat-container {
     border-radius: 16px;
     height: 90vh;
@@ -34,5 +38,5 @@
 }
 
 .bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
-    background-color: #be846c;   
+    background-color: #9e4711;   
 }
